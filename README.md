@@ -4,7 +4,7 @@ A RCON protocol wrapper for Node
 ## Example of usage ##
 It the examples folder you will find a small app that connects to the rcon port of a [Minecraft](http://www.minecraft.net) server. 
 
-## My Sandstorm Examples ##
+## heyjames's Sandstorm Examples ##
 Insurgency: Sandstorm can now show a numbered list of players or output a message in the chat.
 
 It converts this:
